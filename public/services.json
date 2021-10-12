@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": 2,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "img": "https://i.ibb.co/TgDwVYZ/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Engine Repair",
+        "price": 3000,
+        "time": 2,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "img": "https://i.ibb.co/stL0pLZ/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Car Wash",
+        "price": 4000,
+        "time": 2,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "img": "https://i.ibb.co/4YZn4RT/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "MAJOR CAR SERVICE",
+        "price": 5000,
+        "time": 2,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "img": "https://i.ibb.co/0Dq38hJ/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "OIL AND COOLANT LEVELS",
+        "price": 6000,
+        "time": 2,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "img": "https://i.ibb.co/wWmdGR3/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "AIR FILTER",
+        "price": 7000,
+        "time": 2,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "img": "https://i.ibb.co/GCwsVPq/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "OIL & FILTER",
+        "price": 8000,
+        "time": 2,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "img": "https://i.ibb.co/swPtjWW/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "ROTATE TIRE",
+        "price": 9000,
+        "time": 2,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "img": "https://i.ibb.co/t8mjrV1/9.jpg"
+    },
+    {
+        "id": 9,
+        "name": "WAX VEHICLE",
+        "price": 11000,
+        "time": 2,
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "img": "https://i.ibb.co/8PCBrTJ/8.jpg"
+    }
+]
